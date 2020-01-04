@@ -11,8 +11,7 @@
 ## Milestone 
 
 ### 11.4 기획
-![img](https://user-images.githubusercontent.com/48788892/71762852-431e4800-2f18-11ea-9b6e-e03376a64138.png){: width="10%" height="10%"}
-
+<img src="https://user-images.githubusercontent.com/48788892/71762852-431e4800-2f18-11ea-9b6e-e03376a64138.png" width="300" height="300">
 ### 12.10 전시용 판넬 제작
 ![panel](https://user-images.githubusercontent.com/48788892/71762827-f2a6ea80-2f17-11ea-9374-3fb09cedb569.png){: width="50%" height="50%"}
 
