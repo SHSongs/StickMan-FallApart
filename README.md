@@ -11,15 +11,15 @@
 ## Milestone 
 
 ### 11.4 기획
-![img](https://user-images.githubusercontent.com/48788892/71762852-431e4800-2f18-11ea-9b6e-e03376a64138.png)
+![img](https://user-images.githubusercontent.com/48788892/71762852-431e4800-2f18-11ea-9b6e-e03376a64138.png){: width="50%" height="50%}
 
 ### 12.10 전시용 판넬 제작
-![panel](https://user-images.githubusercontent.com/48788892/71762827-f2a6ea80-2f17-11ea-9374-3fb09cedb569.png)
+![panel](https://user-images.githubusercontent.com/48788892/71762827-f2a6ea80-2f17-11ea-9374-3fb09cedb569.png){: width="50%" height="50%}
 
 ### 12.19 개발 착수
 
 ## Technology Stacks
-![unity](https://user-images.githubusercontent.com/48788892/71762840-26821000-2f18-11ea-8523-3765e20e71ea.png)
+![unity](https://user-images.githubusercontent.com/48788892/71762840-26821000-2f18-11ea-8523-3765e20e71ea.png){: width="50%" height="50%}
 
 
 ## Daily Progress
