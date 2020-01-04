@@ -42,17 +42,33 @@
 <img src="https://user-images.githubusercontent.com/48788892/71763788-52ef5980-2f23-11ea-96ba-4c56c56d0cee.png" width="50%" height="50%">
 
 ### 12.23 권총, 베리어, 두번째 맵 
+
 <img src="https://user-images.githubusercontent.com/48788892/71764029-25f07600-2f26-11ea-9bd5-27552ed3e2fb.png" width="50%" height="50%">
-<img src="https://user-images.githubusercontent.com/48788892/71764014-ea55ac00-2f25-11ea-83a0-e9ffd8bba50d.png" width="10%" height="10%">
+<img src="https://user-images.githubusercontent.com/48788892/71764014-ea55ac00-2f25-11ea-83a0-e9ffd8bba50d.png" width="5%" height="5%">
 <img src="https://user-images.githubusercontent.com/48788892/71763897-ed03d180-2f24-11ea-9b23-089939bab21c.png" width="50%" height="50%">
 
 ### 12.16 세번째 맵
+
 <img src="https://user-images.githubusercontent.com/48788892/71763991-b5495980-2f25-11ea-8db2-df9d566204fe.png" width="50%" height="50%">
 
-### 12.30 대화 상자 (DIALOG)
-(사진)
+### 12.26 총 조준 추가
+
+조이스틱으로 총구의 방향을 조절할 수 있게 만들었다.
+
+### 12.30 대화 상자 (DIALOG), 학교 태스팅 
+
+(사진 추가)
+(사진 추가)
 
 ## 2020
 
-###
+### 1.2 메인 메뉴, 튜토리얼
 
+(사진추가)
+(사진추가)
+
+### 1.3 네번째 맵
+(사진 추가)
+
+### 1.4 준비 씬 
+(사진 추가)
