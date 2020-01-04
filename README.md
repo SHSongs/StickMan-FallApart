@@ -9,14 +9,17 @@
 
 
 ## Milestone 
-11.4 기획
-12.10 전시용 판넬 제작
-(사진)
-12.19 개발 착수
+
+### 11.4 기획
+![img](https://user-images.githubusercontent.com/48788892/71762852-431e4800-2f18-11ea-9b6e-e03376a64138.png)
+
+### 12.10 전시용 판넬 제작
+![panel](https://user-images.githubusercontent.com/48788892/71762827-f2a6ea80-2f17-11ea-9374-3fb09cedb569.png)
+
+### 12.19 개발 착수
 
 ## Technology Stacks
-<img src="https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%8B%88%ED%8B%B0_(%EA%B2%8C%EC%9E%84_%EC%97%94%EC%A7%84)#/media/%ED%8C%8C%EC%9D%BC:Unity_Technologies_logo.svg"/>
-unity
+![unity](https://user-images.githubusercontent.com/48788892/71762840-26821000-2f18-11ea-8523-3765e20e71ea.png)
 
 
 ## Daily Progress
