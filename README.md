@@ -20,11 +20,12 @@
 ## Technology Stacks
 <img src="https://user-images.githubusercontent.com/48788892/71762840-26821000-2f18-11ea-8523-3765e20e71ea.png" width="50%" height="50%">
 
+## 회고 
 
 
 ## Daily Progress
 
-## 2019
+## 2019 
 
 ### 11.4 예상 게임 화면 밎 세부 기획
 
@@ -72,3 +73,9 @@
 
 ### 1.4 준비 씬 
 (사진 추가)
+
+### 1.7 발표
+
+### 1.8 부스 운영
+
+
